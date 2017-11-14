@@ -1,0 +1,2 @@
+model_checkpoint_path: "som_model2"
+all_model_checkpoint_paths: "som_model2"
